@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+# Descargas y archivos temporales
+downloads/
+*.mp4
+*.jpg
+*.jpeg
+*.png
+# Sesión Instagram
+session.json
+# Archivos de logs
+log.txt
